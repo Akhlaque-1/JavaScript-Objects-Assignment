@@ -1,14 +1,14 @@
 // assignment#1
 
-// alert("Are you seaching JavaScript?");
+alert("Are you seaching JavaScript?");
 
-// var message = "Error!Please enter a valid password!";
-// alert(message);
+var message = "Error!Please enter a valid password!";
+alert(message);
 
-// alert("Welcome to Js Land...\n Happy Coding");
+alert("Welcome to Js Land...\n Happy Coding");
 
-// var message = "Hello...I can run JS through my web browser,s console";
-// alert(message);
+var message = "Hello...I can run JS through my web browser,s console";
+alert(message);
 
 
     function greetUser() {
@@ -37,62 +37,62 @@
        alert("Script placed AFTER HTML content");
 
 // // assignment#2
-// var username = "Akhlaque Ahmed";
-// var firstName = "Akhlaque"
-// var lastName = "Ahmed"
-// var fullName = "Akhlaque Ahmed"
-// var fullName = firstName + " " + lastName;
-//  alert("Your Full Name is: " + fullName);
+var username = "Akhlaque Ahmed";
+var firstName = "Akhlaque"
+var lastName = "Ahmed"
+var fullName = "Akhlaque Ahmed"
+var fullName = firstName + " " + lastName;
+ alert("Your Full Name is: " + fullName);
 
-// console.log(fullName);
+console.log(fullName);
 
-// var message;
-// message = "Hello World!";
-// alert(message);
+var message;
+message = "Hello World!";
+alert(message);
 
-// var studentName = "Akhlaque Ahmed";
-// var age = 22;
-// var course = "Modern Web Development";
-// var city = "Karachi";
-// var institute = "Saylani SMIT";
+var studentName = "Akhlaque Ahmed";
+var age = 22;
+var course = "Modern Web Development";
+var city = "Karachi";
+var institute = "Saylani SMIT";
 
-// alert("Student Name: " + studentName);
-// alert("Age: " + age);
-// alert("Course: " + course);
-// alert("City: " + city);
-// alert("Institute: " + institute);
+ alert("Student Name: " + studentName);
+ alert("Age: " + age);
+ alert("Course: " + course);
+ alert("City: " + city);
+ alert("Institute: " + institute);
 
-// alert("PIZZA\nPIZZ\nPIZ\nPI\nP");
-
-
-// var email = "akhlaqueahmed397@gamil.com"
-// alert("my email address is " + email)
-
-// var Book = "A smarter way to learn JavaScript."
-// alert("I am trying to learn from the Book " + Book)
+ alert("PIZZA\nPIZZ\nPIZ\nPI\nP");
 
 
-// var design = "▬▬▬▬▬▬▬▬▬ஜ۩۞۩ஜ▬▬▬▬▬▬▬▬▬";
-// alert(design);
+ var email = "akhlaqueahmed397@gamil.com"
+ alert("my email address is " + email)
+
+ var Book = "A smarter way to learn JavaScript."
+ alert("I am trying to learn from the Book " + Book)
+
+
+ var design = "▬▬▬▬▬▬▬▬▬ஜ۩۞۩ஜ▬▬▬▬▬▬▬▬▬";
+ alert(design);
 
 
 
 // assignmet#3
-//  var age = 22;
-//  alert("I am " + age + " years old " );
+  var age = 22;
+  alert("I am " + age + " years old " );
 
 
-//  alert("You have visited this site 14 times.")
+  alert("You have visited this site 14 times.")
 
 
-//  var Birthyear = 1997;
-//  document.write("My birthday is " + Birthyear + "<br> Data type of my dcleared variable is number <br>" );
+  var Birthyear = 1997;
+  document.write("My birthday is " + Birthyear + "<br> Data type of my dcleared variable is number <br>" );
 
 
-// var visitorName = "John Doe";
-// var productTitle = "T-shirt(s)";
-// var quantity = 5;
-// document.write("<b>" + visitorName + "</b> ordered <b>" + quantity + " " + productTitle + "</b> on <b>XYZ Clothing store</b>");
+ var visitorName = "John Doe";
+ var productTitle = "T-shirt(s)";
+ var quantity = 5;
+ document.write("<b>" + visitorName + "</b> ordered <b>" + quantity + " " + productTitle + "</b> on <b>XYZ Clothing store</b>");
 
 
 
@@ -110,12 +110,6 @@ document.write("Variable names should not be JS <b>keywords</b>.");
 
 
 // assignment #5
-// a = 3;
-// b = 5;
-// var result =(a + b);
-// document.write(result);
-
-
     var num1 = 3;
     var num2 = 5;
     var sum = num1 + num2;
